@@ -1,0 +1,23 @@
+.section {
+  width: 100%;
+  max-width: 950px;
+  margin: 120px;
+  padding: 0 10px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 25px;
+}
+
+.header {
+  /* margin-top: px; */
+  font-style: normal;
+  font-weight: bold;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 40px;
+}
+
+.description {
+  font-family: "Open Sans", sans-serif;
+  font-size: 25px;
+  padding: 0;
+  margin-top: -30px;
+}
